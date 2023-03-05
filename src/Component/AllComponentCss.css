@@ -1,0 +1,28 @@
+.navbar .navbar-brand,
+.navbar .nav-item .nav-link,
+.navbar .nav-item .nav-link.active{
+  font-size: 2rem;
+}
+
+.bg-cust{
+  background-color: rgb(98, 197, 197);
+}
+
+.card img{
+height: 200px;
+}
+
+.fixxx{
+  position: sticky;
+  top:0 ;
+  left:0;
+  right: 0;
+  z-index: 10;
+  width: 100%;
+
+}
+
+table tbody td img{
+  width: 100px;
+  height: 100px;
+}
